@@ -1,4 +1,4 @@
--- creando la base de datos escuelas 
+/* -- creando la base de datos escuelas 
 CREATE DATABASE escuelas; 
 
 -- le tengo que indicar la base de datos a utilizar
@@ -6,4 +6,4 @@ CREATE DATABASE escuelas;
 USE escuelas;
 
 -- creando una tabla
-CREATE TABLE alumnos (id_alumno INTEGER, nombre VARCHAR(30));
+CREATE TABLE alumnos (id_alumno INTEGER, nombre VARCHAR(30)); */

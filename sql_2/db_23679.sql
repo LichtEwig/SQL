@@ -58,7 +58,7 @@ multiples */
 --SELECT nombre, capacidad, id_escuela FROM escuelas;
 --USE db_23679;
 -- creando tabla alumnos
-CREATE TABLE alumnos (
+/* CREATE TABLE alumnos (
     id_alumno INT,
     escuela_id INT,
     nombre VARCHAR(30),
@@ -73,7 +73,7 @@ CREATE TABLE alumnos (
 
 USE db_23679;
 
-DESCRIBE alumnos;
+DESCRIBE alumnos; */
 
 
 
